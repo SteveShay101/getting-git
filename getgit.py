@@ -11,7 +11,7 @@ git init
 git clone https://github.com/username/repository.git
 git remote #see the remote repositories by name
 git push [specify remote name if multiple] #pushes new files and changes to remote
-git pull
+git pull [specify remote name if multiple] #pull any changes from remote repository to local
 
 # some basic commands
 git status #see which files have changes or are untracked
